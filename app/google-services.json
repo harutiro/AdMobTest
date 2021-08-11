@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031808093950",
+    "project_id": "admobtest-15823",
+    "storage_bucket": "admobtest-15823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031808093950:android:8610bbbc7ef5c7442e9faf",
+        "android_client_info": {
+          "package_name": "app.makino.harutiro.admobtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031808093950-jmbltjrag2iqqbmuscq5nf3oj9h13ldm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU_0OGtoMwbS9IHRvQyjDlidsSaiww-vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031808093950-jmbltjrag2iqqbmuscq5nf3oj9h13ldm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
